@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 12,
+        "bonus_rolls": 3,
+        "entries": [
+          {
+            "type": "minecraft:group",
+            "children": [
+              {
+                "type": "minecraft:item",
+                "weight": 20,
+                "name": "minecraft:red_sandstone"
+              },
+              {
+                "type": "minecraft:item",
+                "weight": 80,
+                "name": "minecraft:smooth_red_sandstone"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 20,
+            "name": "minecraft:lantern"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:brewer_pottery_sherd"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "minecraft:netherite_scrap"
+          }
+        ]
+      }
+    ]
+  }
+  

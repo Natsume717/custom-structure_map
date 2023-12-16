@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:exploration_map",
+      "destination": "ntm:original",
+      "zoom": 2,
+      "search_radius": 1024,
+      "skip_existing_chunks": true,
+      "decoration":"jungle_temple"
+    }
+  ]
+  
